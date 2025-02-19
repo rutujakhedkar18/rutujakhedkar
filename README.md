@@ -1,2 +1,3 @@
 # rutujakhedkar
-This is my first repository.
+This is my first Git repository.
+Author - Rutuja khedkar
